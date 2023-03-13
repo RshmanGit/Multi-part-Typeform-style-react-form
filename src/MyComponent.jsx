@@ -8,15 +8,15 @@ const MyComponent = () => {
   const steps = [
     {
       title: 'Step 1',
-      content: <Widget id="M4Y9aJR3" style={{ width: 1500 , height: 500 }} className="my-form" />,
+      content: <Widget id="i7snOA2h" style={{ width: 1500 , height: 500 }} className="my-form" />,
     },
     {
       title: 'Step 2',
-      content: <Widget id="M4Y9aJR3" style={{ width: 1500 , height: 500 }} className="my-form" />,
+      content: <Widget id="YmeWiMzN" style={{ width: 1500 , height: 500 }} className="my-form" />,
     },
     {
       title: 'Step 3',
-      content: <Widget id="M4Y9aJR3" style={{ width: 1500 , height: 500 }} className="my-form" />,
+      content: <Widget id="rphHdTUl" style={{ width: 1500 , height: 500 }} className="my-form" />,
     },
   ];
 
