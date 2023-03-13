@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+/* Existing CSS rules */
+
+[type=typeform] [data-testid="powered-by-typeform"] {
+  display: none;
+}
