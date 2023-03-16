@@ -1,10 +1,10 @@
 import React from 'react';
-import MyComponent from './MyComponent';
+import TypeformComponent from './TypeformComponent';
 
 function App() {
   return (
     <div className="App">
-      <MyComponent />
+      <TypeformComponent />
     </div>
   );
 }
