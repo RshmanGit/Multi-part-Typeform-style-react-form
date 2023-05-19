@@ -1,5 +1,5 @@
 import React from 'react';
-import TypeformComponent from './TypeformComponent';
+import TypeformComponent from '../src/Component/TypeformComponent';
 
 function App() {
   return (
